@@ -2,7 +2,7 @@
 
 ![Tela do Cofre](capa.png)
 
-**Veja funcionando:** [(https://emillylv98.github.io/cofre/)]
+**Veja funcionando:** https://emillylv98.github.io/cofre/
 
 ## O que é
 
@@ -16,7 +16,9 @@ O Cofre é um kit de segurança digital desenvolvido em HTML, CSS e JavaScript. 
 
 ## O que eu aprendi
 
-- usar branch e merge, resolver conflito, desfazer erro com revert
+- Usar branch e merge para testar sem estragar a versão principal.
+- Resolver um conflito quando dois branches mudam a mesma linha.
+- Desfazer um erro com `git revert`, sem apagar o histórico.
 
 ## Tecnologias
 
