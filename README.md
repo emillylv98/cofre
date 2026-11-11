@@ -31,4 +31,4 @@ O histórico tem um arquivo `.env` com uma senha falsa, de propósito: foi um ex
 ## Créditos
 
 Código-base do Prof. Mario Rebello, na disciplina Introdução à Ciência da Computação (2026/2).
-A ferramenta NOME DA SUA FERRAMENTA é de minha autoria. Licença MIT.
+A ferramenta Gerador de senhas é de minha autoria. Licença MIT.
