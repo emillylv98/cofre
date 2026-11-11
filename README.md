@@ -12,7 +12,7 @@ O Cofre é um kit de segurança digital desenvolvido em HTML, CSS e JavaScript. 
 
 - **Essa senha já vazou?** Consulta uma base real de senhas vazadas sem enviar a senha (k-anonimato).
 - **Quantos bits tem essa senha?** Estima a força da senha.
-- **NOME DA SUA FERRAMENTA:** o que ela faz.
+- **Gerador de senhas:** cria senhas aleatórias e fortes, do tamanho que você escolher.
 
 ## O que eu aprendi
 
